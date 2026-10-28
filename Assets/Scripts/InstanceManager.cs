@@ -46,8 +46,8 @@ public class InstanceManager : MonoBehaviour
     public void UpdateMenu()
     {
         string selectedModloader = loaderDropdown.options[loaderDropdown.value].text;
-        defaultModsToggle.interactable = selectedModloader is "Fabric" or "Quilt";
-        defaultModsToggle.isOn = selectedModloader is "Fabric" or "Quilt";
+        defaultModsToggle.interactable = selectedModloader is "Fabric" or "Quilt" or "Forge";
+        defaultModsToggle.isOn = selectedModloader is "Fabric" or "Quilt" or "Forge";
     }
 
     public void CreateCustomInstance()
