@@ -23,3 +23,5 @@ Make sure your pull request describes exactly what the code does and explains wh
 - [@TheJudge156](https://www.github.com/TheJudge156) - Wrote core wrapper functionality.
 - [@CADIndie](https://www.github.com/CadIndie) - Main feature and QOL implementer.
 - [@computer-catt](https://github.com/computer-catt) - Easter egg and QOL contributor.
+
+Yes, if you're wondering you can run forge mods on this build of QuestCraft!
